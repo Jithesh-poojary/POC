@@ -1,0 +1,152 @@
+[
+  {
+    "id": "course_python_ml_beginner",
+    "title": "Python for Machine Learning - Fundamentals",
+    "description": "Learn Python basics for ML including NumPy, Pandas, and Scikit-learn fundamentals",
+    "skills_covered": ["Python", "Machine Learning", "Data Science"],
+    "level": "beginner",
+    "duration_hours": 20.0,
+    "provider": "Internal Academy",
+    "url": null
+  },
+  {
+    "id": "course_ml_intermediate",
+    "title": "Machine Learning Engineering",
+    "description": "Intermediate ML covering supervised/unsupervised learning, model evaluation, and deployment",
+    "skills_covered": ["Machine Learning", "MLOps", "Python"],
+    "level": "intermediate",
+    "duration_hours": 40.0,
+    "provider": "Coursera",
+    "url": null
+  },
+  {
+    "id": "course_deep_learning",
+    "title": "Deep Learning Specialization",
+    "description": "Neural networks, CNNs, RNNs, transformers, and practical deep learning applications",
+    "skills_covered": ["Deep Learning", "AI", "Neural Networks"],
+    "level": "advanced",
+    "duration_hours": 60.0,
+    "provider": "Coursera",
+    "url": null
+  },
+  {
+    "id": "course_nlp_fundamentals",
+    "title": "Natural Language Processing with Transformers",
+    "description": "NLP fundamentals including tokenization, embeddings, BERT, GPT, and LLM applications",
+    "skills_covered": ["NLP", "AI", "Deep Learning", "LLM"],
+    "level": "intermediate",
+    "duration_hours": 35.0,
+    "provider": "Internal Academy",
+    "url": null
+  },
+  {
+    "id": "course_aws_architect",
+    "title": "AWS Solutions Architect Professional",
+    "description": "Advanced AWS architecture patterns, multi-account strategies, and enterprise solutions",
+    "skills_covered": ["AWS", "Cloud Architecture", "System Design"],
+    "level": "advanced",
+    "duration_hours": 50.0,
+    "provider": "AWS Training",
+    "url": null
+  },
+  {
+    "id": "course_cloud_beginner",
+    "title": "Cloud Computing Fundamentals",
+    "description": "Introduction to cloud services, IaaS, PaaS, SaaS, and basic AWS/Azure concepts",
+    "skills_covered": ["Cloud", "AWS", "Azure"],
+    "level": "beginner",
+    "duration_hours": 15.0,
+    "provider": "Internal Academy",
+    "url": null
+  },
+  {
+    "id": "course_kubernetes",
+    "title": "Kubernetes for Developers",
+    "description": "Container orchestration with K8s, deployments, services, and production patterns",
+    "skills_covered": ["Kubernetes", "Docker", "DevOps"],
+    "level": "intermediate",
+    "duration_hours": 30.0,
+    "provider": "Udemy",
+    "url": null
+  },
+  {
+    "id": "course_system_design",
+    "title": "System Design for Architects",
+    "description": "Scalable system design patterns, distributed systems, and architecture decisions",
+    "skills_covered": ["System Design", "Cloud Architecture", "Microservices"],
+    "level": "advanced",
+    "duration_hours": 25.0,
+    "provider": "Internal Academy",
+    "url": null
+  },
+  {
+    "id": "course_react_advanced",
+    "title": "Advanced React Patterns",
+    "description": "React hooks, state management, performance optimization, and enterprise patterns",
+    "skills_covered": ["React", "JavaScript", "Frontend"],
+    "level": "advanced",
+    "duration_hours": 20.0,
+    "provider": "Frontend Masters",
+    "url": null
+  },
+  {
+    "id": "course_java_spring",
+    "title": "Spring Boot Microservices",
+    "description": "Building production-ready microservices with Spring Boot, Spring Cloud, and Docker",
+    "skills_covered": ["Java", "Spring Boot", "Microservices", "Docker"],
+    "level": "intermediate",
+    "duration_hours": 35.0,
+    "provider": "Pluralsight",
+    "url": null
+  },
+  {
+    "id": "course_data_engineering",
+    "title": "Data Engineering with Python",
+    "description": "ETL pipelines, data lakes, Spark, Kafka, and modern data stack",
+    "skills_covered": ["Data Engineering", "Python", "Spark", "Kafka"],
+    "level": "intermediate",
+    "duration_hours": 45.0,
+    "provider": "DataCamp",
+    "url": null
+  },
+  {
+    "id": "course_mlops",
+    "title": "MLOps - ML in Production",
+    "description": "Model deployment, monitoring, CI/CD for ML, experiment tracking, and model registry",
+    "skills_covered": ["MLOps", "Machine Learning", "DevOps", "Docker"],
+    "level": "advanced",
+    "duration_hours": 30.0,
+    "provider": "Internal Academy",
+    "url": null
+  },
+  {
+    "id": "course_terraform",
+    "title": "Infrastructure as Code with Terraform",
+    "description": "Terraform fundamentals, modules, state management, and multi-cloud provisioning",
+    "skills_covered": ["Terraform", "Cloud", "DevOps", "AWS"],
+    "level": "intermediate",
+    "duration_hours": 25.0,
+    "provider": "HashiCorp Learn",
+    "url": null
+  },
+  {
+    "id": "course_ai_fundamentals",
+    "title": "AI Fundamentals for Developers",
+    "description": "Introduction to AI concepts, prompt engineering, RAG, and building AI applications",
+    "skills_covered": ["AI", "LLM", "NLP", "Python"],
+    "level": "beginner",
+    "duration_hours": 15.0,
+    "provider": "Internal Academy",
+    "url": null
+  },
+  {
+    "id": "course_sql_advanced",
+    "title": "Advanced SQL and Data Modeling",
+    "description": "Complex queries, optimization, data modeling patterns, and database architecture",
+    "skills_covered": ["SQL", "Data Modeling", "Database"],
+    "level": "advanced",
+    "duration_hours": 20.0,
+    "provider": "DataCamp",
+    "url": null
+  }
+]

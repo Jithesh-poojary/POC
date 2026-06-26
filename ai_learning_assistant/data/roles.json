@@ -1,0 +1,82 @@
+{
+  "AI Solution Architect": {
+    "description": "Designs and implements enterprise AI solutions",
+    "required_skills": {
+      "Python": 8,
+      "Machine Learning": 8,
+      "Deep Learning": 7,
+      "NLP": 7,
+      "Cloud Architecture": 8,
+      "AI": 9,
+      "System Design": 8,
+      "MLOps": 7,
+      "Data Engineering": 6
+    },
+    "level": "senior"
+  },
+  "Senior Java Developer": {
+    "description": "Builds scalable enterprise Java applications",
+    "required_skills": {
+      "Java": 9,
+      "Spring Boot": 8,
+      "Microservices": 8,
+      "SQL": 7,
+      "Docker": 7,
+      "Kubernetes": 6,
+      "CI/CD": 7
+    },
+    "level": "senior"
+  },
+  "Full Stack Developer": {
+    "description": "Develops end-to-end web applications",
+    "required_skills": {
+      "JavaScript": 8,
+      "React": 8,
+      "Node.js": 8,
+      "SQL": 7,
+      "REST APIs": 8,
+      "Docker": 6,
+      "Git": 7
+    },
+    "level": "mid"
+  },
+  "Data Engineer": {
+    "description": "Builds and maintains data pipelines and infrastructure",
+    "required_skills": {
+      "Python": 8,
+      "SQL": 9,
+      "Spark": 8,
+      "Kafka": 7,
+      "Airflow": 7,
+      "Cloud": 7,
+      "Data Modeling": 8
+    },
+    "level": "mid-senior"
+  },
+  "Cloud Architect": {
+    "description": "Designs cloud infrastructure and migration strategies",
+    "required_skills": {
+      "AWS": 9,
+      "Azure": 7,
+      "Terraform": 8,
+      "Kubernetes": 8,
+      "Networking": 8,
+      "Security": 7,
+      "System Design": 9
+    },
+    "level": "senior"
+  },
+  "ML Engineer": {
+    "description": "Builds and deploys machine learning models at scale",
+    "required_skills": {
+      "Python": 9,
+      "Machine Learning": 9,
+      "Deep Learning": 8,
+      "MLOps": 8,
+      "Docker": 7,
+      "Data Engineering": 7,
+      "Mathematics": 8
+    },
+    "level": "senior"
+  }
+}

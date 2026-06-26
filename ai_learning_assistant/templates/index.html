@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Learning Assistant - Skill Assessments</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <nav class="sidebar">
+            <div class="logo">
+                <div class="logo-icon">🎓</div>
+                <h2>AI Learning</h2>
+                <p>Skill Assessment Engine</p>
+            </div>
+            <ul class="nav-menu">
+                <li class="nav-item active" data-page="assessments">
+                    <span class="nav-icon">📝</span>
+                    <span class="nav-text">Assessments</span>
+                </li>
+            </ul>
+            <div class="sidebar-footer">
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Header -->
+            <header class="page-header">
+                <div class="header-content">
+                    <h1>Skill Assessments</h1>
+                    <p class="header-subtitle">Test your knowledge with AI-generated quizzes tailored to your level</p>
+                </div>
+            </header>
+
+            <!-- Assessments Page -->
+            <section id="page-assessments" class="page active">
+                <div class="controls-card">
+                    <div class="controls-header">
+                        <h3>Configure Your Quiz</h3>
+                        <p>Select a technology and difficulty level to generate a personalized assessment</p>
+                    </div>
+                    <div class="assessment-controls">
+                        <div class="control-group">
+                            <label for="assessment-skill">Technology</label>
+                            <select id="assessment-skill">
+                                <option value="">Select a skill...</option>
+                                <option value="Python">Python</option>
+                                <option value="Machine Learning">Machine Learning</option>
+                                <option value="AWS">AWS</option>
+                                <option value="Java">Java</option>
+                                <option value="React">React</option>
+                                <option value="System Design">System Design</option>
+                                <option value="Docker">Docker</option>
+                                <option value="SQL">SQL</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label for="assessment-difficulty">Difficulty</label>
+                            <select id="assessment-difficulty">
+                                <option value="easy">Easy</option>
+                                <option value="medium" selected>Medium</option>
+                                <option value="hard">Hard</option>
+                            </select>
+                        </div>
+                        <div class="control-group control-action">
+                            <button class="btn-primary" onclick="generateAssessment()">
+                                <span class="btn-icon">⚡</span>
+                                Generate Quiz
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div id="assessment-content"></div>
+            </section>
+        </main>
+    </div>
+
+    <script src="/static/js/app.js"></script>
+</body>
+</html>
